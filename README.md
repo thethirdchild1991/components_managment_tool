@@ -1,0 +1,1 @@
+components_managment_tool
